@@ -1,12 +1,18 @@
-header {
-  min-height: 60px;
+header {	 
+ width: 100%;
   position: fixed;
   top: 0;
   right: 0;
   left: 0;
-  border-bottom: 1px solid #ccc;
-  background: #ECECEC;
+  border-bottom: 10px solid	white;
+  background-image: linear-gradient( to right, #007788, #07d5d5); 
+  color: white;
   z-index: 2;
+}
+.titulo {
+	
+  font-size: 10000 px;		
+	
 }
 p{
 	margin-right:20%;
@@ -18,4 +24,4 @@ a{
 	color: white;
 	text-decoration:none;
 }
-		
+	
